@@ -1,6 +1,6 @@
 # Full-Stack Web Development Bootcamp Journey
 
-This repository documents my learning journey through the **Complete 2025 Web Development Bootcamp by Dr. Angela Yu** on Udemy.
+This repository documents my learning journey.
 
 ## 📌 Topics Covered
 - HTML, CSS, and Responsive Design
